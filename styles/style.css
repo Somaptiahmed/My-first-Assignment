@@ -296,7 +296,7 @@ border-radius: 16px;
     margin-right: auto;
 }
 .web-dev-link{
-   width: 90%;
+   max-width: 1140px;
  margin: 0 auto;
     display: flex;
     flex-direction: row;
